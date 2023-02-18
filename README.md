@@ -31,7 +31,7 @@
 [Python-Tls-Client](https://github.com/FlorianREGAZ/Python-Tls-Client)
 
 #### 5.演示
-  [![demo](img.png)](https://github.com/jym66/ChatGPT_CommadnLineTools/blob/main/img/img.png)
+  ![demo](https://github.com/jym66/ChatGPT_CommadnLineTools/blob/main/img/img.png?raw=true)
 
 
 
