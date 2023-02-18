@@ -5,6 +5,7 @@
 1. 使用网页API实现。
 2. 利用[undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)获取cf_clearance。
 3. 可以保存登陆信息，下次登陆尝试使用保存的登陆信息。
+## 使用
 
 #### 1.先安装依赖库
 
@@ -23,14 +24,14 @@
 
 `python chatBot.py`
 
-#### 4.感谢
+## 4.感谢
 [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 
 [ChatGPT](https://github.com/acheong08/ChatGPT)
 
 [Python-Tls-Client](https://github.com/FlorianREGAZ/Python-Tls-Client)
 
-#### 5.演示
+## 5.演示
   ![demo](https://github.com/jym66/ChatGPT_CommadnLineTools/blob/main/img/img.png?raw=true)
 
 
